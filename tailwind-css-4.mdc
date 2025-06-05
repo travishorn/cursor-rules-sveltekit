@@ -1,3 +1,8 @@
+---
+description: This rule provides comprehensive best practices and coding standards for Tailwind CSS development with a focus on using the newer Tailwind CSS 4 over the older, but more common Tailwind CSS 3.
+globs: ["**/*.{svelte,css}"]
+---
+
 # Tailwind CSS 4
 
 This project uses the newer Tailwind CSS 4 instead of the older, but more common Tailwind CSS 3.

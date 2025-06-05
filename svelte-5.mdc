@@ -1,3 +1,8 @@
+---
+description: This rule provides comprehensive best practices and coding standards for Svelte development with a focus on using the newer Svelte 5 over the older, but more common Svelte 4.
+globs: ["**/*.{svelte,ts}"]
+---
+
 # Svelte 5
 
 This project uses the newer Svelte 5 instead of the more common Svelte 4.
